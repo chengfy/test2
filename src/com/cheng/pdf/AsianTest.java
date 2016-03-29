@@ -31,6 +31,7 @@ public class AsianTest {
 	}
 
 	private static void t2() throws DocumentException, IOException {
+		//chengfyqq
 	        Document document = new Document(PageSize.A4);   
 	        //建立一个书写器，与document对象关联   
 	        RtfWriter2.getInstance(document, new FileOutputStream("E:/test/成绩单.doc"));   
